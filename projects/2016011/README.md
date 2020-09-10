@@ -32,7 +32,7 @@
  Εικόνα Πρώτου κινητού τηλεφώνου 160px: [Εδώ](https://github.com/Marialena98/site/blob/master/images/DynaTAC-Thumb.jpg)
  
  Εικόνα Πρώτου κινητόυ τηλεφώνου Κανονική: [Εδώ](https://github.com/Marialena98/site/blob/master/images/DynaTAC.jpg)
- 
+
  ## Παραδοτέο Α.1
  
  Προσθήκη 2 νέων εικόνων.
